@@ -13,22 +13,18 @@ Let's code together and contribute to the community <3
 - 💞️ I’m looking to collaborate on all comunity;
 
 
-<div align="center">
-  <a href="https://github.com/roodolfopc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roodolfopc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodolfopc&layout=compact&langs_count=7&theme=dracula"/>
-   </div>
-   
- <div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Roodolfopc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Roodolfopc-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Roodolfopc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Roodolfopc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Roodolfopc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  
-  
+   </div> 
+ 
+  <div align="right" alt="insignia de status de rodolfo pontes">
+[![Roodolfopc's GitHub stats](https://github-readme-stats.vercel.app/api?username=roodolfopc&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/roodolfopc/github-readme-stats)
+  </div>
+
  
 ### - 📫 How to reach me
  
