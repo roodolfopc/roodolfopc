@@ -3,7 +3,7 @@
 # Welcome!
  
 # I'm Rodolfo Pontes Carneiro!
-### Let me present a little about myself ;)
+### Let me introduce a little about myself ;)
  
 👋 Hi, I’m @roodolfopc
 An agronomic engeneering looking for learning full stack development.
