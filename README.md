@@ -47,6 +47,5 @@ Let's code together and contribute to the community <3
 
  
 - Thanks for visiting. 
-     <img align="right" alt="Rodolfo-pic" height="150" weight="150" style="border-radius:50px;" src="https://github.com/roodolfopc/roodolfopc/blob/41073181598ac43bfee73a4a07c4e86fed9b25dc/roodolfopc.gif">
 - Enjoy it!! o/
 
