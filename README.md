@@ -3,7 +3,7 @@
 # Welcome!
  
 # I'm Rodolfo Pontes Carneiro!
-### Let me introduce a little about myself ;)
+### Let me introduce myself ;)
  
 👋 Hi, I’m @roodolfopc
 An agronomic engeneering looking for learning full stack development.
@@ -35,10 +35,6 @@ Let's code together and contribute to the community <3
        ... send me a message and lets code together!
    
    
-   
-   
- 
-  ![Snake animation](https://github.com/roodolfopc/roodolfopc/blob/output/github-contribution-grid-snake.svg)
    
 
  
