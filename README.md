@@ -21,10 +21,6 @@ Let's code together and contribute to the community <3
   <img align="center" alt="Roodolfopc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div> 
  
-  <div align="right" alt="insignia de status de rodolfo pontes">
-[![Roodolfopc's GitHub stats](https://github-readme-stats.vercel.app/api?username=roodolfopc&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/roodolfopc/github-readme-stats)
-  </div>
-
  
 ### - 📫 How to reach me
  
